@@ -1453,7 +1453,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<iframe style=\"width: 60%;  height: 600px\" src=\"https://www.eglobal.one/extensions/formulario/8129fb7848fbdbbb3153c4567087238602369055\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\">\n </iframe>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<iframe style=\"width: 100%;  height: 600px\" src=\"https://www.eglobal.one/extensions/formulario/8129fb7848fbdbbb3153c4567087238602369055\" frameborder=\"0\" scrolling=\"no\" allowfullscreen=\"\">\n </iframe>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 40px 0;\n  color: #ffffff;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}\ndiv {\n    background-color: #005db4;\n}\n",
           "alias": "code-editor",
           "_tags": [
