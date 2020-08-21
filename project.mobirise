@@ -520,6 +520,12 @@
             },
             ".nav-link:hover, .dropdown-item:hover": {
               "color": "@itemsHoverColor !important"
+            },
+            "@media (max-width: 767px)": {
+              ".menu-logo .navbar-brand .navbar-logo img": {
+                "height": "auto !important",
+                "width": "80%"
+              }
             }
           },
           "_name": "menu2",
