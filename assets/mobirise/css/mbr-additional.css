@@ -1154,7 +1154,7 @@ section.lazy-placeholder:after {
 }
 .cid-s83yd1oiDo {
   padding-top: 15px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s83yd1oiDo h4 {
@@ -1189,8 +1189,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s83ye7I8ml {
-  padding-top: 15px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s83ye7I8ml h4 {
@@ -1225,8 +1225,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s83yf3hcXG {
-  padding-top: 15px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s83yf3hcXG h4 {
@@ -1261,8 +1261,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s83yfFyuxy {
-  padding-top: 15px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s83yfFyuxy h4 {
@@ -1308,7 +1308,7 @@ section.lazy-placeholder:after {
   margin: 0 0 .5rem 0;
 }
 .cid-s7zSm4RxTZ {
-  padding-top: 0px;
+  padding-top: 30px;
   padding-bottom: 30px;
   background-color: #efefef;
 }
@@ -1316,15 +1316,15 @@ section.lazy-placeholder:after {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 65%;
+  width: 70%;
   height: 100%;
   background-color: #005cb9;
 }
 .cid-s7zSm4RxTZ img {
-  width: 100%;
+  width: 90%;
 }
 .cid-s7zSm4RxTZ p {
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 .cid-s7zSm4RxTZ .content-wrapper {
   max-width: 750px;
@@ -1333,7 +1333,7 @@ section.lazy-placeholder:after {
   padding: 0 2rem;
 }
 .cid-s7zSm4RxTZ .content-wrapper {
-  padding-top: 6rem;
+  padding-top: 0rem;
 }
 .cid-s7zSm4RxTZ h4 {
   position: absolute;
@@ -1363,7 +1363,7 @@ section.lazy-placeholder:after {
     padding-top: 4rem;
   }
   .cid-s7zSm4RxTZ p {
-    margin-top: 4rem;
+    margin-top: 1rem;
   }
 }
 @media (max-width: 767px) {
@@ -1381,23 +1381,25 @@ section.lazy-placeholder:after {
 .cid-s7zSm4RxTZ .mbr-text,
 .cid-s7zSm4RxTZ .mbr-section-btn {
   color: #ffffff;
+  text-align: left;
 }
 .cid-s7zSm4RxTZ H4 {
   color: #005cb9;
 }
 .cid-s7zSm4RxTZ H1 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-s7u6KDWgZ5 {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #005db4;
+  background-color: #ffffff;
 }
 .cid-s7u6KDWgZ5 P {
   color: #767676;
 }
 .cid-s7u6KDWgZ5 H1 {
-  color: #ffffff;
+  color: #005db4;
 }
 .cid-s7zZrTB3w2 {
   padding-top: 60px;
